@@ -1,7 +1,3 @@
-- 👋 Hi, I’m equinnox, some people call with my real name, Aristo.
-- 👀 I’m interested in Automation and Webserver things
-- 🌱 I’m currently learning C, Python, and more
-- 📫 How to reach me is PM my discord (equinnox.) or find in [ExT - sW Hideout](https://discord.gg/d4g9ZMxrkv)
-
-![Discord Shield](https://discord.c99.nl/widget/theme-1/456482172984098817.png)
-
+# Hi, I'm Aristo 👋 👨‍💻
+Umm, how do i tell about myself? Anyway i'm interested on Cloud Computing☁️, and also because of it, i'm currently active on developing <a href="[sW:DM](https://discord.gg/5SFMqmPsYu)">Secret Weapon Deathmatch 🔫</a>, a SA:MP/open.mp server which i'm always getting real problems with Cloud ☁️ things.
+Reach out on Discord 💬 (equinnox.) or find in [ExT - sW Hideout](https://discord.gg/d4g9ZMxrkv) ⛺
