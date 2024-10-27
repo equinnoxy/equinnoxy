@@ -1,4 +1,4 @@
-![Secret Weapon](https://cdn.discordapp.com/attachments/1055080094642753596/1298429964097687603/eswek.gif?ex=671988a3&is=67183723&hm=69e6f7aa9bf991cf6908ef8747dec0aaa84f418e97ba34997f5ef566617bd5ba&)
+![Secret Weapon](https://github.com/equinnoxy/equinnoxy/blob/main/eswek.gif?raw=true)
 
 # Hi, I'm Aristo 👋 👨‍💻
 Nothing to see here, just go [here](https://discord.com/invite/secretweapon/) to see what i'm currently working on.
