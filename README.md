@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/awristo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://discord.com/invite/secretweapon/"><img src="https://img.shields.io/badge/Secret%20Weapon-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <img src="https://komarev.com/ghpvc/?username=equinnoxy&style=for-the-badge&color=555555&label=Profile+views" alt="Profile views"/>
+  <img src="https://hits.sh/github.com/equinnoxy.svg?style=for-the-badge&label=Profile%20views&color=555555&labelColor=1f1f1f" alt="Profile views"/>
 </p>
 
 ---
